@@ -1,0 +1,8 @@
+1. How to Integrate GitHub Repo in Azure Databricks:
+
+Integration of github(personal account) in azure databricks. Steps Involved are
+
+1. Create Azure Databricks in Azure CLoud Platform
+2. Generate Personal Access Token(PAT) in Github with necessary access.
+3. Configure PAT in Azure Databricks repos under User settings.
+4. Save the settings. Push and pull the code to github directly
